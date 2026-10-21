@@ -1,6 +1,6 @@
 # AutoDP: Automating Model Deployment on Heterogeneous Embedded Devices
 
-> Submitted for review to IEEE/ACM ICSE'27.
+> Submitted for review to IEEE TMC.
 
 AutoDP is an end-to-end system that automates AI model deployment on heterogeneous embedded devices by resolving the _model-engine mismatch_ problem. Instead of relying on a single inference engine, AutoDP partitions a model into segments and leverages multiple inference engines to jointly optimize and execute them.
 
